@@ -10,7 +10,7 @@ Scrapper coinbase qui récupère les prix des crypto et envoie un mail selon les
 
 ![alt text](https://github.com/nujabness/coinbase-notifier/blob/main/1.PNG)
 
-###Bonus 
+### Bonus 
 
 Widget rainmeter basé sur l'api de coinbase dans le dossier rainmeter
 
